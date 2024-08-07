@@ -1,0 +1,26 @@
+[
+    {
+         "name":"SamsungGalaxyZFlip5",
+         "img":"https://www.whatmobile.com.pk/admin/images/Samsung/SamsungGalaxyZFold5-s.jpg",
+         "price":"450,000"
+        },
+
+    {
+         "name":"SamsungGalaxyZFlip5",
+         "img":"https://www.whatmobile.com.pk/admin/images/Samsung/SamsungGalaxyZFlip5-s.jpg",    
+         "price":"450,000"
+        },
+
+    {
+         "name":"itelp40",
+         "img":"https://www.whatmobile.com.pk/admin/images/itel/itelP40-s.jpg",
+         "price":"47,000"
+        },
+
+    {
+        "name":"tecno camon ",
+        "img":"https://www.whatmobile.com.pk/admin/images/Tecno/TecnoCamon20-s.jpg",
+         "price":"50,000"
+        }
+]
+   
